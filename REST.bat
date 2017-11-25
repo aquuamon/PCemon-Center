@@ -2,7 +2,7 @@
 set file=bg_sound.mp3
 ( ECHO Set Sound = CreateObject("WMPlayer.OCX.7"^)
   ECHO Sound.URL = "bg_sound.mp3"
-  echo Sound.settings.volume = 4
+  echo Sound.settings.volume = 7
   echo Sound.settings.setMode "loop", True
   ECHO Sound.Controls.play
   echo While Sound.playState ^<^> 1
