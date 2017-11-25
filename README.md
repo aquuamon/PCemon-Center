@@ -4,6 +4,8 @@ Hi! This suite contains different softwares to help clean, repair and restore yo
 
 Also, they may slightly have been influenced by the nostalgia of Pokémon. :)
 
+The lastest versions can be find at, https://github.com/Vattenpistol/PCemon-Center/releases.
+
 -----------
 REST
 ---
