@@ -21,11 +21,11 @@ More info coming soon.
 -----------
 CREDITS:
 
-
+Find more under each branch.
 
 -----------
 Please note.
-This production was only made for educational purpose, it's non-commercial and a copyright infringement is absolutly not intended. If owner reads this and want me to remove respective content, just let me know.
+This production was only made for educational purpose, it's non-commercial and a copyright infringement of spefic content is absolutly not intended.
 
 
 Kind regards
