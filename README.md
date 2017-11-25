@@ -1,6 +1,8 @@
 # PCemon Center
 
-Hi! This suite contains different softwares to help alean, repair and restore your PC.
+Hi! This suite contains different softwares to help clean, repair and restore your PC.
+
+Also, they may slightly have been influenced by the nostalgia of Pokémon. :)
 
 -----------
 REST
