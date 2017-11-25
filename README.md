@@ -4,7 +4,7 @@ Clean, repair and restore PC
 Hi!
 ---
 
-SURF is a part of the PCemon Center Suite, it will help clean your network. :)
+SURF is a part of the PCemon Center Suite, it will help clean your PC network. :)
 
 
 /---------------SURF---------------/
