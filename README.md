@@ -4,7 +4,7 @@ Clean, repair and restore PC
 Hi!
 ---
 
-REST is a part of the PCemon Center Suite, it will help clean your network. :)
+REST is a part of the PCemon Center Suite, it will help restore your PC health. :)
 
 
 /---------------REST---------------/
