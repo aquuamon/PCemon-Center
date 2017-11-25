@@ -3,7 +3,7 @@
 Hi! SURF is a part of the PCemon Center Suite, it will help clean your PC network. :)
 
 -----------
-GET STARTED
+GETTING STARTED
 ---
 Batch for resetting winsock protocol & IP, flushing DNS, releasing and renewing IP.
 
