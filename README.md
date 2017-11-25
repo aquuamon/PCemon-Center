@@ -2,6 +2,8 @@
 
 Hi! SURF is a part of the PCemon Center Suite, it will help clean your PC network. :)
 
+The lastest version can be found at, https://github.com/Vattenpistol/PCemon-Center/releases.
+
 -----------
 GETTING STARTED
 ---
