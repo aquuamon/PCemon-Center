@@ -9,7 +9,7 @@ GETTING STARTED
 ---
 Batch for scanning & repairing Windows system files, bad sectors, errors on HDD and memory diagnostics scan (RAM).
 
-All you need to do is run SURF.exe as administrator and you should be good to go.
+All you need to do is run REST.exe as administrator and you should be good to go.
 
 
 -----------
