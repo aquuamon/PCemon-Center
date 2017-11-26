@@ -1,5 +1,3 @@
-# PCemon-Center
-Clean, repair and restore PC.
 # SURF
 
 Hi! SURF is a part of the PCemon Center Suite, it will help clean your PC network. :)
