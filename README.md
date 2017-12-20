@@ -28,6 +28,12 @@ More info coming soon.
 https://github.com/Vattenpistol/PCemon-Center/tree/TBA
 
 -----------
+
+CREDITS:
+
+Find more under each branch.
+
+-----------
 DONATION
 ---
 Feel free to contribute to this project by leaving a donation at:
@@ -35,12 +41,6 @@ Feel free to contribute to this project by leaving a donation at:
 https://paypal.me/pools/c/7ZJiD5XZCM
 
 Thanks!
-
------------
-
-CREDITS:
-
-Find more under each branch.
 
 -----------
 Please note.
