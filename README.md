@@ -11,6 +11,14 @@ Batch for scanning & repairing Windows system files, bad sectors, errors on HDD 
 
 All you need to do is run REST.exe as administrator and you should be good to go.
 
+-----------
+DONATION
+---
+Feel free to contribute to this project by leaving a donation at:
+
+https://paypal.me/pools/c/7ZJiD5XZCM
+
+Thanks!
 
 -----------
 CREDITS:
