@@ -26,6 +26,14 @@ Source, http://pokemon.wikia.com/wiki/Squirtle.
 All copyright for icon belongs to and/or respective owners:
 Pokémon Wiki, © http://www.wikia.com All Rights Reserved.
 
+-----------
+DONATION
+---
+Feel free to contribute to this project by leaving a donation at:
+
+https://paypal.me/pools/c/7ZJiD5XZCM
+
+Thanks!
 
 -----------
 Please note.
