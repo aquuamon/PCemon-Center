@@ -37,8 +37,3 @@ Thanks!
 -----------
 Please note.
 This production was only made for educational purpose, it's non-commercial and a copyright infringement is absolutly not intended. If owner reads this and want me to remove respective content, just let me know.
-
-
-Kind regards
-
-//@Vattenpistol
