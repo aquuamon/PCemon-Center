@@ -2,7 +2,7 @@
 
 Hi! REST is a part of the PCemon Center Suite, it will help restore your PC health. :)
 
-The lastest version can be found at, https://github.com/Vattenpistol/PCemon-Center/releases.
+The lastest version can be found at, https://github.com/aquuamon/PCemon-Center/releases.
 
 -----------
 GETTING STARTED
@@ -30,7 +30,7 @@ DONATION
 ---
 Feel free to contribute to this project by leaving a donation at:
 
-https://paypal.me/pools/c/7ZJiD5XZCM
+https://ko-fi.com/aquamon
 
 Thanks!
 
