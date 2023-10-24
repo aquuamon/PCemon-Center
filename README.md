@@ -2,7 +2,7 @@
 
 Hi! SURF is a part of the PCemon Center Suite, it will help clean your PC network. :)
 
-The lastest version can be found at, https://github.com/Vattenpistol/PCemon-Center/releases.
+The lastest version can be found at, https://github.com/aquuamon/PCemon-Center/releases.
 
 -----------
 GETTING STARTED
@@ -31,15 +31,10 @@ DONATION
 ---
 Feel free to contribute to this project by leaving a donation at:
 
-https://paypal.me/pools/c/7ZJiD5XZCM
+https://ko-fi.com/aquamon
 
 Thanks!
 
 -----------
 Please note.
 This production was only made for educational purpose, it's non-commercial and a copyright infringement is absolutly not intended. If owner reads this and want me to remove respective content, just let me know.
-
-
-Kind regards
-
-//@Vattenpistol
