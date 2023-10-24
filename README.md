@@ -45,6 +45,3 @@ Thanks!
 -----------
 Please note.
 This production was only made for educational purpose, it's non-commercial and a copyright infringement of specific content is absolutly not intended.
-
-
-Kindly
